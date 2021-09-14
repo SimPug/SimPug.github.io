@@ -1,33 +1,27 @@
 {
-	"publications": [{
-		"Title": "Automatically Generating Cause-and_Effect Questions from Passages",
-		"Authors": "Stasaski, K., Rathod, M., Tu, T., Xiao, Y, and Hearst, M.A.",
-		"Venue": "BEA Workshop",
-		"Year": "2021"
+	"Impressive Resume": [{
+		"Job": "Story Production Fellow",
+		"Description": "Worked in a CMS to produce stories for the service journalism team of Insider Inc. Insider Reviews",
+		"Lenth ": "6 months",
+		"Vibes": "Love it!"
 	},
 	{
-		"Title": "Automatic Feedback Generation for Dialog-Based Language Tutors Using Transformer Models and Active Learning",
-		"Authors": "Stasaski, K. and Ramanarayanan, V.",
-		"Venue": "Human-in-the-Loop Dialogue Systems Workshop",
-		"Year": "2020"
+		"Job": "Associate Producer of 'The Orange Tree' Podcast",
+		"Description": "Associate producer of true crime prodcast ranked in top 10 of iTunes podcast charts.",
+		"Lenth ": "6 months",
+		"Vibes": "Awesome"
 	},
 	{
-		"Title": "More Diverse Dialogue Datasets via Diversity-Informed Data Collection",
-		"Authors": "Stasaski, K., Yang, G., and Hearst, M.A.",
-		"Venue": "ACL",
-		"Year": "2020"
+		"Job": "Undergraduate Writing Consultant ",
+		"Description": "Trained in non-directive, non-evaluative, peer tutoring to help students from all majors through the writing process.",
+		"Lenth ": "1 Year",
+		"Vibes": "Fun"
 	},
 	{
-		"Title": " Construction of a Large Open Access Dialogue Dataset for Tutoring",
-		"Authors": "Stasaski, K., Kao, K., and Hearst, M.A.",
-		"Venue": "BEA Workshop",
-		"Year": "2020"
-	},
-	{
-		"Title": "Multiple Choice Question Generation Utilizing an Ontology",
-		"Authors": "Stasaski, K and Hearst, M.A.",
-		"Venue": "BEA Workshop",
-		"Year": "2017"
+		"Job": "KUTX 98.9 Austin intern/student assistant",
+		"Description": "managed website and social media/ produced radio segments for Austin, TX local NPR music station.",
+		"Lenth ": "1 year",
+		"Vibes": "Lovely"
 	}]
 	
 }
